@@ -4,7 +4,7 @@ _Unsere App zum Onboarding neue Kollegen_
 
 ## How-To Installation
 
-[CLICK ME](itms-services://?action=download-manifest&url=https://github.com/jambit/aroma/release.plist)
+<a href="itms-services://?action=download-manifest&url=https://github.com/jambit/aroma/release.plist" id="text"> Download our application</a>
 
 ### tl;dr
 
