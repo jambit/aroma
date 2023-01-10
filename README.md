@@ -4,7 +4,7 @@ _Unsere App zum Onboarding neue Kollegen_
 
 ## How-To Installation
 
-Go to [DOWNLOAD PAGE](https://jambit.github.io)
+Go to [DOWNLOAD PAGE](https://jambit.github.io/aroma)
 
 ### tl;dr
 
